@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Ravi
 
-Good to you see you here. 
+- Software Consultant with a Computational Biology background.
+- loves automations.
+- exploring graph databases.
+- Python and Javascript
+
 
 Few of my opensource works include:
 
@@ -11,7 +15,7 @@ Few of my opensource works include:
 - [https://github.com/rrmerugu/trawler](https://github.com/rrmerugu/trawler) - A data gathering/trawling framework to search and get information from web sources like bing.
 - more opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** 
 
-Say Hi on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** | **[Twitter](https://twitter.com/rrmerugu)** if you think we have common interests.
+Ask me anything on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** or **[Twitter](https://twitter.com/rrmerugu)** 
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
