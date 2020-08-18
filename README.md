@@ -1,19 +1,19 @@
 ### Hi there 👋 I'm Ravi
 
 - Software Consultant with a Computational Biology background.
+- enjoys designing and building software systems.
 - loves automations.
+- Python and Javascript.
 - exploring graph databases.
-- enjoys designing and building software systems
-- Python and Javascript
 
 
 Few of my opensource works include:
 
-- [https://github.com/invanalabs/graph-explorer](https://github.com/invanalabs/graph-explorer) - Open source, extendable data visualiser for Apache TinkerPop's Gremlin supported graph databases.
-- [https://github.com/invanalabs/browser-engine](https://github.com/invanalabs/browser-engine) - Web Automation and User behaviour simulations made easy with YAML or python code.
-- [https://github.com/crawlerflow/crawlerflow](https://github.com/crawlerflow/crawlerflow) - Web Crawlers orchestration Framework that lets you create datasets from multiple web sources.
-- [https://github.com/rrmerugu/django-user-registration-bs4](https://github.com/rrmerugu/django-user-registration-bs4) - Django base template with clean and production ready bootstrap4 UI, with all social authentication flows included.
-- [https://github.com/rrmerugu/trawler](https://github.com/rrmerugu/trawler) - A data gathering/trawling framework to search and get information from web sources like bing.
+- [invanalabs/graph-explorer](https://github.com/invanalabs/graph-explorer) - Open source, extendable data visualiser for Apache TinkerPop's Gremlin supported graph databases.
+- [invanalabs/browser-engine](https://github.com/invanalabs/browser-engine) - Web Automation and User behaviour simulations made easy with YAML or python code.
+- [crawlerflow/crawlerflow](https://github.com/crawlerflow/crawlerflow) - Web Crawlers orchestration Framework that lets you create datasets from multiple web sources.
+- [rrmerugu/django-user-registration-bs4](https://github.com/rrmerugu/django-user-registration-bs4) - Django base template with clean and production ready bootstrap4 UI, with all social authentication flows included.
+- [rrmerugu/trawler](https://github.com/rrmerugu/trawler) - A data gathering/trawling framework to search and get information from web sources like bing.
 - more opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** 
 
 Ask me anything on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** or **[Twitter](https://twitter.com/rrmerugu)** 
