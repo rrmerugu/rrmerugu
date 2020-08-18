@@ -3,6 +3,7 @@
 - Software Consultant with a Computational Biology background.
 - loves automations.
 - exploring graph databases.
+- enjoys designing and building software systems
 - Python and Javascript
 
 
