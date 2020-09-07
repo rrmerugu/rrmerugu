@@ -11,8 +11,6 @@ Few of my opensource works include:
 
 - [invanalabs/graph-explorer](https://github.com/invanalabs/graph-explorer) - Open source, extendable data visualiser for Apache TinkerPop's Gremlin supported graph databases.
 - [invanalabs/browser-engine](https://github.com/invanalabs/browser-engine) - Web Automation and User behaviour simulations made easy with YAML or python code.
-- [crawlerflow/crawlerflow](https://github.com/crawlerflow/crawlerflow) - Web Crawlers orchestration Framework that lets you create datasets from multiple web sources.
-- [rrmerugu/django-user-registration-bs4](https://github.com/rrmerugu/django-user-registration-bs4) - Django base template with clean and production ready bootstrap4 UI, with all social authentication flows included.
 - [rrmerugu/trawler](https://github.com/rrmerugu/trawler) - A data gathering/trawling framework to search and get information from web sources like bing.
 - more opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** 
 
