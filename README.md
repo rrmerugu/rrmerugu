@@ -1,14 +1,17 @@
-### Hi there 👋 I'm Ravi, a technology enthusiast
+### Hi there 👋 I'm Ravi, 
+
+an opensource developer and technology enthusiast building resuable knowldege models and data at [Invana](https://invana.io)
 
 - 🧑‍💻 IT consultant with a computational biology background.
 - 🖥️ enjoys designing and building software systems.
 - 🤖 loves automations.
 - 🐍 Python, Javascript, graph database, visualisations, web crawling.
-- more opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** 
+- 🔭 data and homelab enthusiast
 
-Ask me anything on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** or **[Twitter](https://twitter.com/rrmerugu)** 
 
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+More opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** . Ask me anything on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** or **[Twitter](https://twitter.com/rrmerugu)** 
+
+<!-- ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) -->
 
 
 <!--
