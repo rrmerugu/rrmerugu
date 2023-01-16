@@ -1,17 +1,9 @@
-### Hi there 👋 I'm Ravi
+### Hi there 👋 I'm Ravi, a technology enthusiast
 
-- Software Consultant with a Computational Biology background.
-- enjoys designing and building software systems.
-- loves automations.
-- Python and Javascript.
-- exploring graph databases.
-
-
-Few of my opensource works include:
-
-- [invanalabs/graph-explorer](https://github.com/invanalabs/graph-explorer) - Open source, extendable data visualiser for Apache TinkerPop's Gremlin supported graph databases.
-- [invanalabs/browser-engine](https://github.com/invanalabs/browser-engine) - Web Automation and User behaviour simulations made easy with YAML or python code.
-- [rrmerugu/trawler](https://github.com/rrmerugu/trawler) - A data gathering/trawling framework to search and get information from web sources like bing.
+- 🧑‍💻 IT consultant with a computational biology background.
+- 🖥️ enjoys designing and building software systems.
+- 🤖 loves automations.
+- 🐍 Python, Javascript, graph database, visualisations, web crawling.
 - more opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** 
 
 Ask me anything on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** or **[Twitter](https://twitter.com/rrmerugu)** 
