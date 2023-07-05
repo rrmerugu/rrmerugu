@@ -9,6 +9,8 @@ an opensource developer and technology enthusiast building resuable knowldege mo
 - 🔭 data and homelab enthusiast
 
 
+My recent hobby projects - [gh/macbook-setup](https://github.com/rrmerugu/macbook-setup), [gh/homelab](https://github.com/rrmerugu/homelab)
+
 More opensource contributions on **[stackoverflow](https://stackoverflow.com/users/3448851/rrmerugu)** and **[medium](https://medium.com/@rrmerugu)** . Ask me anything on **[Linkedin](https://www.linkedin.com/in/rrmerugu/)** or **[Twitter](https://twitter.com/rrmerugu)** 
 
 <!-- ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) -->
